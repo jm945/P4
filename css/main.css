@@ -1,0 +1,38 @@
+#mainbody {
+	width: 80%;
+	margin: 1em auto;
+}
+
+#cardsection {
+	width: 95%;
+}
+
+#cardsection .card {
+	margin: 1em 1em;
+}
+
+#bigcard img {
+	height: 10em;
+}
+
+.smallcard img {
+	height: 7em;
+	width: 12em;
+
+}
+
+.navbar-dark .navbar-nav .nav-link {
+	color: yellow !important;
+	
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: aliceblue;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-size: 0.5rem;
+}
