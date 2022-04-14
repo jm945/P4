@@ -3,6 +3,12 @@
 	padding-bottom:1em;
 }
 
+img {
+	max-width: 20em;
+	margin: auto;
+	display: block;
+}
+
 #subbutton{
 	margin: 1em auto;
 	text-align: center;
